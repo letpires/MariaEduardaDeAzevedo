@@ -23,3 +23,5 @@ Me chamo **Maria Eduarda de Azevedo** e atualmente sou acadêmica do curso de **
     - [Corretor Ortográfico para Linha de Comando](https://github.com/MariaEduardaDeAzevedo/projeto_Linguagem_C) (Corretor ortográfico desenvolvido em Linguagem C para uso em terminal)
     - [Portfólio com Gatsby](https://github.com/MariaEduardaDeAzevedo/portfolio-gatsby) (Meu portfólio com Gatsby! Clique [aqui](https://mariaeduardadeazevedo.firebaseapp.com/) para conferir o resultado!)
     - [Reconhecimento de formas com Python e OpenCV](https://github.com/MariaEduardaDeAzevedo/reconhecimento-de-formas) (Programa de reconhecimento e classificação de formas geométricas em mídias utilizando OpenCV e Python)
+    
+![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaDeAzevedo&show_icons=true&theme=radical)
