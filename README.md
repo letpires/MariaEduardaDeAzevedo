@@ -1,27 +1,35 @@
-# Olá, Mundo!
+<h1 align="center">👋 print("Olá, Mundo!") </h1> 
+<p>
+    Me chamo <strong>Maria Eduarda de Azevedo</strong> e atualmente sou acadêmica do curso de Ciências da Computação na Universidade Federal de Campina Grande (UFCG).
+</p>
+<h3>ℹ️ Informações gerais 👩‍💻 🏳️‍🌈</h3>
+<strong>Meus pronomes</strong>: Ela/dela 👩
+<strong>Pode me chamar de</strong>: Duda 🙂
+<strong>De onde sou</strong>: Campina Grande - Paraíba - Brasil 🇧🇷
 
-Me chamo **Maria Eduarda de Azevedo** e atualmente sou acadêmica do curso de **Ciência da Computação** na Universidade Federal de Campina Grande (**UFCG**).
+<h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
+<h6>O que eu estou sempre aprendendo...</h6>
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙💙💙💙💙💙💙💙💙💙)
 
-😄 Pronomes: ela/dela
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 
-🆒 Pode me chamar de **Duda**
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"/> <strong> TypeScript </strong> 
 
-### Abaixo listei alguns fatos acerca de meus interesses e experiências:
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong> 
 
-  - 🐍 Python é um dos meus maiores interesses e a linguagem que mais domino e gosto de programar
-  - 🌱 Atualmente estou aprendendo muito acerca de desenvolvimento web
-  - 🤔 Procuro por ajuda em aumentar minha experiência em desenvolvimento web e dados
-  - 💬 Pode contar comigo para aprender sobre programação! Sou super apta a ajudar pessoas interessadas em aprender!
-  - 📫 Por onde me encontrar:
-    - 🗂️ Visitanto meu [portfólio](https://mariaeduardadeazevedo.github.io)
-    - 🐦 [Twitter](https://twitter.com/ddt_azevedo)
-    - 🟦 [LinkedIn](https://www.linkedin.com/in/maria-eduarda-de-azevedo-silva-a9a134191/)
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807253.svg"/> <strong> C </strong> 
 
-  - 📁 Alguns dos meus repositórios favoritos:
-    - [Header](https://github.com/MariaEduardaDeAzevedo/header) (ferramenta para linha de comando desenvolvida em Python que importa conteúdos prontos em arquivos.)
-    - [Bot Corona News BR](https://github.com/MariaEduardaDeAzevedo/bot_coronavirus_news) (código do meu bot de atualização acerca dos casos da Covid-19 no Brasil, siga [@corona_news_br](https://twitter.com/corona_news_br) no Twitter!)
-    - [Corretor Ortográfico para Linha de Comando](https://github.com/MariaEduardaDeAzevedo/projeto_Linguagem_C) (Corretor ortográfico desenvolvido em Linguagem C para uso em terminal)
-    - [Portfólio com Gatsby](https://github.com/MariaEduardaDeAzevedo/portfolio-gatsby) (Meu portfólio com Gatsby! Clique [aqui](https://mariaeduardadeazevedo.firebaseapp.com/) para conferir o resultado!)
-    - [Reconhecimento de formas com Python e OpenCV](https://github.com/MariaEduardaDeAzevedo/reconhecimento-de-formas) (Programa de reconhecimento e classificação de formas geométricas em mídias utilizando OpenCV e Python)
-    
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
+
+<img height="30" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"/> <strong> Gatsby</strong> 
+
+<h3>🧐 Uma olhadinha no meu GitHub...</h3>
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaDeAzevedo&show_icons=true&theme=radical)
+
+- Se você gosta de Python tanto quanto eu, tenho uns repositórios com projetinhos muito legais que tratam de processamento de imagem, visão computacional, escrita em arquivos...
+- Um dos meus favoritos é um corretor ortográfico que fiz durante a quarentena como projeto final de um curso de Linguagem C!
+- Sempre estou colocando alguma coisa (aleatória ou não) por aqui.
