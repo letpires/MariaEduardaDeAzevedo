@@ -13,7 +13,8 @@
 
 <h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
 <h6>O que eu estou sempre aprendendo...</h6>
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙💙💙💙💙💙💙💙💙💙)
+
+<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙)
 
 <img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
 
