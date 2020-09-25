@@ -33,6 +33,7 @@
 <img height="30" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"/> <strong> Gatsby</strong> 
 
 <h3>🧐 Uma olhadinha no meu GitHub...</h3>
+
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaDeAzevedo&show_icons=true&theme=radical)
 
 - Se você gosta de Python tanto quanto eu, tenho uns repositórios com projetinhos muito legais que tratam de processamento de imagem, visão computacional, escrita em arquivos...
