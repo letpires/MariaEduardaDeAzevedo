@@ -6,28 +6,32 @@
 <p>
     Me chamo <strong>Maria Eduarda de Azevedo</strong> e atualmente sou acadêmica do curso de Ciências da Computação na Universidade Federal de Campina Grande (UFCG).
 </p>
+
 <h3>ℹ️ Informações gerais 👩‍💻 🏳️‍🌈</h3>
+
 <strong>Meus pronomes</strong>: Ela/dela 👩
+
 <strong>Pode me chamar de</strong>: Duda 🙂
+
 <strong>De onde sou</strong>: Campina Grande - Paraíba - Brasil 🇧🇷
 
 <h3>💻 Sobre tecnologias e afins... 🐍 🌐 👩‍💻</h3>
 <h6>O que eu estou sempre aprendendo...</h6>
 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/> <strong> Python </strong> (💙💙💙💙💙)
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/> <strong> JavaScript </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"/> <strong> TypeScript </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/> <strong> Java </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807253.svg"/> <strong> C </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/> <strong> HTML5 </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/> <strong> CSS3 </strong> 
-<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/> <strong> React</strong> 
-<img height="30" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"/> <strong> Gatsby</strong> 
+|<strong> Python </strong>|<strong> JavaScript </strong>|<strong> TypeScript </strong>|<strong> Java </strong>|<strong> C </strong>| <strong> HTML5 </strong>|<strong> CSS3 </strong>|<strong> React</strong>|<strong> Gatsby</strong>
+|-|-|-|-|-|-|-|-|-
+|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919832.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/226/226777.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/2807/2807253.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>|<img height="30" src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png"/>  
+
 
 <h3>🧐 Uma olhadinha no meu GitHub...</h3>
 
 ![Duda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaDeAzevedo&show_icons=true&theme=radical)
 
-- Se você gosta de Python tanto quanto eu, tenho uns repositórios com projetinhos muito legais que tratam de processamento de imagem, visão computacional, escrita em arquivos...
-- Um dos meus favoritos é um corretor ortográfico que fiz durante a quarentena como projeto final de um curso de Linguagem C!
-- Sempre estou colocando alguma coisa (aleatória ou não) por aqui.
+<h3>Meus interesses e projetos</h3>
+
+Eu amo Python ~falo português e Python~ e sempre estou desenvolvendo ideias com a linguagem. Dentro da computação, meus maiores interesses são em Ciência de Dados, Inteligência Artificial, com um carinho especial por Visão Computacional, além de também vagar pelo desenvolvimento web.
+
+Nos meus pins você pode encontrar alguns projetos que desenvolvi, como um [jogo da velha Player vs Computer](https://github.com/MariaEduardaDeAzevedo/jogo-da-velha/), ou um [detector de máscaras](https://github.com/MariaEduardaDeAzevedo/detector-de-mascaras) utilizando OpenCV e scikit-learn.
+Com muito carinho, participei do desenvolvimento do [site do Elas@Computação UFCG](https://elas.computacao.ufcg.edu.br/), um projeto que tenho muito orgulho de ter feito parte! 
+Não posso deixar de destacar o [NossoPy](https://github.com/MariaEduardaDeAzevedo/nosso-py), um repositório que agrupa conteúdos sobre Python para quem já ama e também para quem estiver começando a dar seus primeiros passos com a linguagem ou em programação!
+
